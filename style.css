@@ -25,14 +25,13 @@ figcaption {
 }
 
 p #featured-property {
-  display: block;
   width: 800px;
   text-align: center;
 }
 
 
 
-div {
+div #details {
   background-color: red;
   text-align: center;
   width: 25%;
