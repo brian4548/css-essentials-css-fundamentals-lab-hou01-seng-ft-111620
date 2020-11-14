@@ -29,13 +29,14 @@ p #featured-property {
   text-align: center;
 }
 
+#details {
+  display: block;
+}
 
-
-div #details {
+div {
   background-color: red;
   text-align: center;
   width: 25%;
-  display: block;
   float: left;
 }
 
