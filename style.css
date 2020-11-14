@@ -29,7 +29,9 @@ figcaption {
   text-align: center;
 }
 
-p {text-align: center;}
+p {
+  text-align: center;
+}
 
 #details {
   display: block;
