@@ -29,6 +29,10 @@ figcaption {
   text-align: center;
 }
 
+#featured-property {
+  text-align: center;
+}
+
 #details div {
   display: block;
   background-color: red;
