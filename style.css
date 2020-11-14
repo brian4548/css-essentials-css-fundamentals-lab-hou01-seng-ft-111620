@@ -24,12 +24,12 @@ figcaption {
   text-align: center;
 }
 
-p#featured-property {
+#featured-property p {
   width: 800px;
   text-align: center;
 }
 
-div#details {
+#details div {
   display: block;
   background-color: red;
   text-align: center;
