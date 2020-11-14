@@ -29,7 +29,9 @@ p #featured-property {
   text-align: center;
 }
 
-
+#details {
+  display: block;
+}
 
 div {
   background-color: red;
