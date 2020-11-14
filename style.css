@@ -29,6 +29,8 @@ p #featured-property {
   text-align: center;
 }
 
+p {text-align: center;}
+
 #details {
   display: block;
 }
